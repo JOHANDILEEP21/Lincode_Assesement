@@ -183,9 +183,18 @@ data, file gicsd_labels.csv.
 
 ## Add early stopping to prevent overfitting.
 
-##Create a Deep CNN architecture from scratch, train it on more epochs.
+## Create a Deep CNN architecture from scratch, train it on more epochs.
 
 ## In this model i've use very less amount of CNN arichtecture used. 
 
 ## In future we've to use more CNN architecture for more validation score.
 
+## Conclusion:
+
+    --> The confusion matrix for this model, (representing the percent of times each label was predicted for each label in the training set during evaluation) also showed highest predictability for PARTIAL_VISIBILITY at minimum compared to other.
+
+    --> Predictability for the images with FULL_VISIBILITY ID cards was a high 99 to 100% in all 3 models, as anticipated, due to larger training dataset for that class, without data augmentation.
+    
+    --> In this model i've use very less amount of CNN arichtecture used. 
+
+    --> In future we've to use more CNN architecture for more validation score.
