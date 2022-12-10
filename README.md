@@ -53,7 +53,7 @@ data, file gicsd_labels.csv.
 
 # a) Data Exploration
 
-    --> i) Explore all the available data. What are your preliminary observations?
+  --> i) Explore all the available data. What are your preliminary observations?
 
 # b) Feature Engineering
 
@@ -103,7 +103,7 @@ data, file gicsd_labels.csv.
 ---
 
 
-###i) Explore all the available data.
+### i) Explore all the available data.
 
 ---
 
